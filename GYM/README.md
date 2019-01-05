@@ -1,16 +1,14 @@
-# Learning Tensorflow
+# GYM
 
 A collection of machine learning programs using TFLean which is an abstracted version of Tensorflow.
 
-## Projects
+## Environments
 
-digit_identifier - Classifies hand drawn pictures of digits (NOT FINISHED)
+cartpole_vX - Goal is to balance a pole upright
 
-GYM - Graphical machine learning mini-projects
+lunarLander_vX - Goal is to land a small shuttle on the ground
 
-linear_finder - first ML project, finds m and b  of a line given a set of points
-
-random - random projects that I plan to add
+MountainCarContinuous_vX - Goal is to move the cart to the top of a hill
 
 ## Built With
 
@@ -18,6 +16,10 @@ random - random projects that I plan to add
 * [TFlearn](http://tflearn.org/) - Abstracted version of Tensorflow
 * [Python](https://www.python.org/) - Programming language used
 * [GYM](https://gym.openai.com/) - graphical program environment
+
+#Trained Model for lunar lander using lunarLander_v1.py
+
+![](lunar_lander.gif)
 
 ## Authors
 
