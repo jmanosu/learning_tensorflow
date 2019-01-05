@@ -17,7 +17,7 @@ MountainCarContinuous_vX - Goal is to move the cart to the top of a hill
 * [Python](https://www.python.org/) - Programming language used
 * [GYM](https://gym.openai.com/) - graphical program environment
 
-#Trained Model for lunar lander using lunarLander_v1.py
+## Trained Model for lunar lander using lunarLander_v1.py
 
 ![](lunar_lander.gif)
 
